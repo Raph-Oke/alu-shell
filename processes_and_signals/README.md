@@ -1,1 +1,1 @@
-processes_and_signals
+cat processes_and_signals
